@@ -27,13 +27,13 @@ I also enabled the "DesctructibleTerrain" sample, because it worked good enough 
 
 Well, I think everything is pretty self-axplaining, because everything about this TestBed is to learn from its samples and do smaller or bigger tests ;-)
 
-I think it's a very great way to learn how the Farseer Physics Engine (which is originally a port of Box2D) is working. When you still encounter problems, then it's a useful thing to google for Box2D samples / tutorial. They are nearly working the same for Farseer Physics Engine.
+I think it's a very great way to learn how the Farseer Physics Engine (which is originally a port of Box2D) is working. When you still encounter problems, then it's a useful thing to google for Box2D samples / tutorials. They are nearly working the same in the Farseer Physics Engine.
 
 ## Samples
 
 Testbed: [MonoGame.DesktopGL/Tests](https://github.com/sqrMin1/Farseer-Physics-TestBed-Port-MonoGame-3.6/tree/master/Testbed%20MonoGame.DesktopGL/Tests)
 
-Click on the link to open an overview of all samples!
+Click on the link to get an overview of all the samples, which are included in this repo!
 
 **Have fun!**
 
