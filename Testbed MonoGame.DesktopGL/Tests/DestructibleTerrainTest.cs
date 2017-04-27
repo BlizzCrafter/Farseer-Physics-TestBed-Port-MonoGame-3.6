@@ -144,7 +144,7 @@ namespace FarseerPhysics.Testbed.Tests
             DrawString("Middle click to create circles!");
             DrawString("Press t or y to cycle between decomposers: " + _terrain.Decomposer);
             TextLine += 25;
-            DrawString("Press g or h to decrease/increase circle radius: " + _circleRadius);
+            DrawString("Press f or g to decrease/increase circle radius: " + _circleRadius);
 
             base.Update(settings, gameTime);
         }
