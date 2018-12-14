@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/sqrMin1.svg?style=social&label=Follow)](https://twitter.com/sqrMin1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SandboxBlizz.svg?style=flat-square&label=Follow&logo=twitter)](https://twitter.com/SandboxBlizz)
 
 # Farseer Physics Engine + TestBed Port to MonoGame 3.6!
 
@@ -39,6 +39,6 @@ Click on the link to get an overview of all the samples, which are included in t
 
 **Have fun!**
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sqrMin1.svg?style=social&label=Follow)](https://twitter.com/sqrMin1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SandboxBlizz.svg?style=flat-square&label=Follow&logo=twitter)](https://twitter.com/SandboxBlizz)
 
 > Note: The Farseer Physics Engine is now officially called "[Velcro Physics](https://github.com/VelcroPhysics/VelcroPhysics)". Feel free to check the official git repo out!
